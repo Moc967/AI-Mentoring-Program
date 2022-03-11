@@ -1,6 +1,6 @@
 # AI Mentoring Program
 
-<p> This repository contains all training materials used during 8 weeks workshop supported by Prof Ajit Joakar and his team.
+<p> This repository contains all training materials used during 8 weeks workshop supported by Prof Ajit Joakar and his team on Feb and March 2022.
 
 ### Core team
 - Ajit Jaokar - Course Director - Artificial Intelligence - Cloud and Edge Implementations University of Oxford
