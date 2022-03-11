@@ -28,7 +28,7 @@
 - explain methods and techniques to build and train a machine learning model (such as data exploration; feature selection, feature engineering , preprocessing (outliers, normalise, missing values), model selection and evaluation)
 <hr>
 
-##Week 2:  Hands On exercises
+## Week 2:  Hands On exercises
 <p>
 - Exercise 2.1 - Boston House Prices prediction</p>
 
@@ -39,7 +39,7 @@
 To create a classification model (mainly Support vector Classification) that predicts if the cancer diagnosis is benign or malignant based on several features.
 <hr>
 
-##Week 3 - Model Selection and Evaluation
+## Week 3 - Model Selection and Evaluation
 
 Explain model selection and evaluation, including:
 - An overview of model selection and model evaluation
@@ -49,12 +49,12 @@ Explain model selection and evaluation, including:
 - An overview of hyperparameter tuning (such as GridSearchCV and RandomizedSearchCV)
 <hr>
 
-##Week 4 - Feature Engineering 
+## Week 4 - Feature Engineering 
 
 To cover feature engineering.
 <hr>
 
-##Week 5 - Building a Deep Learning model
+## Week 5 - Building a Deep Learning model
 
 To build a deep learning model in Keras, including:<br>
 - Overview of a deep learning; MLP, CNN, SLP, VGG16, ResNet models
@@ -65,7 +65,7 @@ To build a deep learning model in Keras, including:<br>
 
 <hr>
 
-##Week 6: Hands on Exercises
+## Week 6: Hands on Exercises
 <p>
 - Exercise 6.1: Classification FM without dimensionality.<br></p>
 
@@ -76,14 +76,14 @@ The implementation course is divided into two main parts: <br>
 <p>- The second part, which will contain the different models we will be using in this project mainly: Convolutional Neural Networks (CNN), Multi-Layer Perceptron (MLP), Single Layer Perceptron (SLP), VGG16, ResNet, Gaussian Mixture Model and Clustering more specifically we are going to use K-means Clustering techniques. To have more fun! We will apply these models on processed data before and after applying Principal Component Analysis (PCA).
 <hr>
 
-##Week 7- Where and when to use PCA
+## Week 7- Where and when to use PCA
 
 The aim of this week is to decide where and when to use PCA, including:
 - An overview of Principal Component Analysis<br>
 - Explain how to apply PCA; data standardisation, create a covariance matrix,eigen decomposition, feature transformation, 
 <hr>
 
-##Week 8 - Classification FM with dimensionality
+## Week 8 - Classification FM with dimensionality
 
 Exercise: Classification FM with dimensionality
 The project consists of a main task which is to classify items in the Fashion MNIST dataset successfully.  We will divide the implementation course into two main parts, one which we will be doing just for once and we won’t need to rewrite the code for it every time we run the whole code. The second part, which will contain the different models we will be using in this project mainly: Convolutional Neural Networks (CNN), Multi-Layer Perceptron (MLP), Single Layer Perceptron (SLP), VGG16, ResNet, Gaussian Mixture Model and Clustering more specifically we are going to use K-means Clustering techniques. To have more fun! We will apply these models on processed data before and after applying Principal Component Analysis (PCA).
